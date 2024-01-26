@@ -1,4 +1,4 @@
-# Angular 5 To-Do List App
+# Angular To-Do List App
 
 This is a simple but functional to-do list app built with Angular. It allows users to add, edit, delete, and filter tasks. It also uses Bootstrap for styling and local storage for persisting data.
 
